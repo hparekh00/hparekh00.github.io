@@ -171,10 +171,7 @@ body {
     width:90vw;
     height:90vh;
     padding:5vh 5vw;
-
-    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80") center center;
-    background-size:cover;
-
+    background:rgb(255, 50, 50);
     color:#fff;
     z-index:9;
     position:fixed;

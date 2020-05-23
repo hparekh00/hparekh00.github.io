@@ -89,7 +89,11 @@ body {
     text-align:center;
     font-size:25px;
     transform:rotate(-90deg);
-    background:transparent;
+    
+
+    background:linear-gradient(0deg,rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url("https://images.unsplash.com/photo-1451187580459-43490279c0fa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2252&q=80") center center;
+    background-size:cover;
+
     color:#fff;
     position:fixed;
     left:0;
